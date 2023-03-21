@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">控制系统</string>
+    <string name="refresh">刷新</string>
+    <string name="equipment">设备1</string>
+    <string name="equipment_2">设备2</string>
+
+</resources>

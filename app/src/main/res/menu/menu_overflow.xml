@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android1:id="@+id/menu_refresh"
+        android:icon="@drawable/refresh"
+        android:title=""
+        app:showAsAction="ifRoom"/>
+    <item
+        android1:id="@+id/menu_query_by_CardID"
+        android1:title="按卡号查询"
+        app:showAsAction="never"/>
+ <!--   <item
+        android1:id="@+id/menu_equipment2"
+        android1:title="@string/equipment_2"
+        app:showAsAction="never"/>-->
+
+</menu>

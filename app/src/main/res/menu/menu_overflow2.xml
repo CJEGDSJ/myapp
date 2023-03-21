@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android1:id="@+id/menu_refresh1"
+        android:icon="@drawable/refresh"
+        android1:title="@string/refresh"
+        app:showAsAction="ifRoom"/>
+<!--    <item
+        android1:id="@+id/menu_equipment1"
+        android1:title="@string/equipment"
+        android:icon="@drawable/equipment3"
+        app:showAsAction="never"/>
+    <item
+        android1:id="@+id/menu_equipment2"
+        android:icon="@drawable/equipment3"
+        android1:title="@string/equipment_2"
+        app:showAsAction="never"/>-->
+
+</menu>

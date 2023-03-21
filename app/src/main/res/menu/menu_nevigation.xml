@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home1"
+        android:title="主页" />
+    <item
+        android:id="@+id/Line_chart"
+        android:icon="@drawable/line"
+        android:title="折线图" />
+    <item
+        android:id="@+id/Bar_chart"
+        android:icon="@drawable/bar"
+        android:title="柱状图" />
+    <!--<item
+        android:id="@+id/menu"
+        android:icon="@drawable/control1"
+        android:title="数据修改" />-->
+
+</menu>
